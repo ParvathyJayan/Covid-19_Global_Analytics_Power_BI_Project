@@ -14,4 +14,6 @@ Visualize the geographic distribution of COVID-19 cases across different countri
 ## Key Performance Indicators (KPIs):
 Monitor critical KPIs such as Case Fatality Rate (CFR), Recovery Rate, and Active Cases, helping to assess the severity and response to the pandemic.
 
+## Dashboard:
+
 ![Covid Dashboard](https://github.com/ParvathyJayan/Covid-19_Global_Analytics_Power_BI_Project/assets/137706415/fea66368-5b3f-4484-a121-ae39057370e0)
