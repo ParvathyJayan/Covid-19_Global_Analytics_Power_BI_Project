@@ -17,3 +17,5 @@ Monitor critical KPIs such as Case Fatality Rate (CFR), Recovery Rate, and Activ
 ## Dashboard:
 
 ![Covid Dashboard](https://github.com/ParvathyJayan/Covid-19_Global_Analytics_Power_BI_Project/assets/137706415/fea66368-5b3f-4484-a121-ae39057370e0)
+
+Video Exaplanation: https://drive.google.com/file/d/1zgoUbSIvplBXIdBACx0S_P_NuZVphXLR/view?usp=drive_link
